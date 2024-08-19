@@ -58,6 +58,10 @@ a {
   margin-bottom: 1rem;
 }
 
+.foundation-text:hover {
+  color: hsl(47, 88%, 63%);
+}
+
 .description-text {
   color: #7f7f7f;
   font-size: 16px;
